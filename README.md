@@ -1,76 +1,51 @@
 # Hi, I'm Marwan Soliman 👋
 
-## Cybersecurity Engineer | Vulnerability Analyst | Security Researcher
+## Cybersecurity Engineer | Vulnerability Assessment | Penetration Testing
 
-Computer Engineering student focused on cybersecurity engineering, vulnerability assessment, penetration testing, and building security-focused tools.
+Computer Engineering student focused on cybersecurity engineering, network security, vulnerability assessment, and security automation.
 
-I enjoy analyzing security weaknesses, performing controlled security assessments, and developing practical solutions for network and application security.
+Building hands-on experience through security labs, vulnerability assessments, and practical security projects.
 
 ---
 
-## 🛡️ Security Focus Areas
+## 🛡️ Security Focus
 
 - Vulnerability Assessment
 - Penetration Testing
 - Network Security
-- Linux Security Administration
+- Linux Security
 - Security Automation
 - Digital Forensics
-- AI Security Applications
+- AI Security
 
 ---
 
-## 🧰 Technical Skills
+## ⚔️ Security Tools & Technologies
 
-### Cybersecurity
+### Security Tools
+`Nmap` `Metasploit` `Wireshark` `Burp Suite` `OWASP Top 10`
 
-- Vulnerability Assessment
-- Penetration Testing Methodologies
-- OWASP Top 10
-- CVE Analysis
-- Nmap
-- Metasploit Framework
-- Wireshark
-- Burp Suite
-- Network Reconnaissance
-- Security Reporting
+### Systems & Networking
+`Linux` `RHEL` `TCP/IP` `Network Troubleshooting`
 
-### Networking & Systems
-
-- TCP/IP
-- Network Troubleshooting
-- Linux Administration
-- Red Hat Enterprise Linux
-- System Hardening
-- Network Monitoring
-
-### Programming & Automation
-
-- Python
-- C++
-- SQL
-- Bash Scripting
-- NumPy
-- Pandas
+### Programming
+`Python` `C++` `SQL` `Bash`
 
 ---
 
-## 🔐 Featured Security Projects
+## 🚀 Featured Projects
 
-### 🔎 Metasploitable 2 Vulnerability Assessment
-Practical vulnerability assessment and penetration testing report using Nmap, Metasploit Framework, and security analysis methodologies.
+### 🔍 Metasploitable 2 Vulnerability Assessment
+Penetration testing assessment covering service enumeration, vulnerability identification, exploitation validation, and remediation recommendations.
 
 ### 🛡️ NetGuard - Secure Network Monitor
-Network security monitoring tool focused on traffic analysis and security visibility.
+Python-based network security monitoring tool for traffic analysis and security visibility.
 
-### 🔒 Smart Contract Security Assistant
-AI-powered security assistant for smart contract analysis using LLM and retrieval-based workflows.
+### 🔐 Smart Contract Security Assistant
+AI-powered assistant for smart contract security analysis using LLM-based workflows.
 
 ### 🕵️ Deepfake Detection & Digital Forensics
-AI-based media forensics project for detecting manipulated digital content.
-
-### 🌐 ARP Network Security Tool
-Python-based network security utility for ARP analysis and network monitoring.
+Computer vision project focused on detecting manipulated digital content.
 
 ---
 
@@ -83,25 +58,16 @@ Python-based network security utility for ARP analysis and network monitoring.
 
 ---
 
-## 🧪 Security Labs & Learning
+## 📈 Currently Learning
 
-Currently building hands-on experience in:
-
-- Penetration Testing Labs
+- Advanced Penetration Testing
 - Vulnerability Research
-- Linux Security
-- Network Defense
+- Linux Hardening
 - Security Automation
 
 ---
 
-## 📊 GitHub Stats
-
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1rwvn&show_icons=true&theme=transparent)
-
----
-
-## 📫 Contact
+## 📫 Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/marwansoliman1/
