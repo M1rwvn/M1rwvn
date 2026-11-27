@@ -41,11 +41,11 @@ Penetration testing assessment covering service enumeration, vulnerability ident
 ### 🛡️ NetGuard - Secure Network Monitor
 Python-based network security monitoring tool for traffic analysis and security visibility.
 
-### 🔐 Smart Contract Security Assistant
-AI-powered assistant for smart contract security analysis using LLM-based workflows.
+### 📄 Contract Q&A Assistant (RAG)
+Retrieval-augmented assistant for asking questions about contracts and documents (PDF/DOCX), built with LangChain, vector search and a Gradio UI. Answers carry source citations.
 
-### 🕵️ Deepfake Detection & Digital Forensics
-Computer vision project focused on detecting manipulated digital content.
+### 🕵️ Deepfake Detection Scripts
+PyTorch scripts that extract video frames, train a real/fake frame classifier (custom CNN and ResNet-18) and run it on videos. Prototype, no evaluation results recorded yet. Dataset credit: FaceForensics++.
 
 ---
 
