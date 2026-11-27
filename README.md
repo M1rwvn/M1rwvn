@@ -1,6 +1,6 @@
 # Hi, I'm Marwan Soliman 👋
 
-## Cybersecurity Engineer | Vulnerability Assessment | Penetration Testing
+## Cybersecurity Student | Vulnerability Assessment | Penetration Testing
 
 Computer Engineering student focused on cybersecurity engineering, network security, vulnerability assessment, and security automation.
 
