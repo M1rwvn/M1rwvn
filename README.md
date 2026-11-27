@@ -35,17 +35,24 @@ Building hands-on experience through security labs, vulnerability assessments, a
 
 ## 🚀 Featured Projects
 
-### 🔍 Metasploitable 2 Vulnerability Assessment
-Penetration testing assessment covering service enumeration, vulnerability identification, exploitation validation, and remediation recommendations.
+### 🔬 [Sublumen](https://github.com/M1rwvn/sublumen)
+Steganography and digital-forensics workbench: LSB embedding, statistical tests, an ML detector, case files and PDF reports. MIT licensed, with its limits stated in the README.
 
-### 🛡️ NetGuard - Secure Network Monitor
-Python-based network security monitoring tool for traffic analysis and security visibility.
+### 🚀 [STELLAR](https://github.com/M1rwvn/STELLAR)
+Personal digital twin for astronaut health that learns each crew member's own normal and warns early, with English/Arabic explanations, offline. Synthetic data; monitoring indicators, not diagnoses.
+**NASA Space Apps Challenge 2026: the STELLAR team reached Global Nominee.**
 
-### 📄 Contract Q&A Assistant (RAG)
-Retrieval-augmented assistant for asking questions about contracts and documents (PDF/DOCX), built with LangChain, vector search and a Gradio UI. Answers carry source citations.
+### 🌐 [Web Security Case Studies](https://github.com/M1rwvn/web-security-case-studies)
+SQL Injection, CSRF, CORS misconfiguration, broken access control, XSS and IDOR, each with a proof of concept, impact analysis and remediation guidance aligned with the OWASP Top 10.
 
-### 🕵️ Deepfake Detection Scripts
-PyTorch scripts that extract video frames, train a real/fake frame classifier (custom CNN and ResNet-18) and run it on videos. Prototype, no evaluation results recorded yet. Dataset credit: FaceForensics++.
+### 🔍 [Metasploitable 2 Vulnerability Assessment](https://github.com/M1rwvn/metasploitable2-vulnerability-assessment)
+Team assessment report: service enumeration, vulnerability identification, exploitation validation and remediation recommendations.
+
+### 🛡️ [NetGuard - Secure Network Monitor](https://github.com/M1rwvn/netguard-secure-network-monitor)
+Python network monitoring dashboard for traffic analysis, reporting and security event visualization.
+
+### 📄 [Contract Q&A Assistant](https://github.com/M1rwvn/contract-qa-assistant)
+RAG assistant for asking questions about contracts and documents (PDF/DOCX), built with LangChain, vector search and a Gradio UI. Answers carry source citations.
 
 ---
 
